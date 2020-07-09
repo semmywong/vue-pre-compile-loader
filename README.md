@@ -1,0 +1,1 @@
+# vue-pre-compile-loader
